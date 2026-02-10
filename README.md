@@ -59,27 +59,27 @@ Each includes:
 
 ### **7 Novel Attack Vectors Identified:**
 
-1. ✅ **Prompt Injection** - Manipulating AI through crafted inputs (CRITICAL)
-2. ✅ **Consensus Manipulation** - Exploiting non-determinism (HIGH)
-3. ✅ **Oracle Attacks** - Poisoning external data sources (HIGH)
-4. ✅ **Cost-Based DoS** - Draining funds via expensive calls (MEDIUM)
-5. ✅ **Privacy Leakage** - Sensitive data exposure (MEDIUM-HIGH)
-6. ✅ **Validator Collusion** - Coordinated attacks (CRITICAL)
-7. ✅ **API Poisoning** - Compromising third parties (HIGH)
+1. **Prompt Injection** - Manipulating AI through crafted inputs (CRITICAL)
+2.  **Consensus Manipulation** - Exploiting non-determinism (HIGH)
+3.  **Oracle Attacks** - Poisoning external data sources (HIGH)
+4.  **Cost-Based DoS** - Draining funds via expensive calls (MEDIUM)
+5.  **Privacy Leakage** - Sensitive data exposure (MEDIUM-HIGH)
+6.  **Validator Collusion** - Coordinated attacks (CRITICAL)
+7.  **API Poisoning** - Compromising third parties (HIGH)
 
 ### **7 Protocol Enhancements Proposed:**
 
-1. ✅ **Secure Prompt Templating System** - Auto-sanitization
-2. ✅ **AI Cost Controls** - Built-in rate limiting
-3. ✅ **Multi-Source Oracle Framework** - Data validation
-4. ✅ **Privacy-Preserving AI Execution** - TEE integration
-5. ✅ **Validator Reputation & Slashing** - Economic security
-6. ✅ **AI Response Verification** - Cryptographic proofs
-7. ✅ **Graduated Consensus Modes** - Flexible security
+1. **Secure Prompt Templating System** - Auto-sanitization
+2. **AI Cost Controls** - Built-in rate limiting
+3. **Multi-Source Oracle Framework** - Data validation
+4. **Privacy-Preserving AI Execution** - TEE integration
+5. **Validator Reputation & Slashing** - Economic security
+6. **AI Response Verification** - Cryptographic proofs
+7. **Graduated Consensus Modes** - Flexible security
 
 ---
 
-## 🚀 How to Use This Research
+## How to Use This Research
 
 ### **For GenLayer Team:**
 
@@ -179,10 +179,10 @@ Without proper security:
 ### **The Solution:**
 
 Seven concrete protocol enhancements that:
-- ✅ Reduce attack surface by 80%+
-- ✅ Provide developer-friendly security tools
-- ✅ Enable safe mainnet deployment
-- ✅ Establish GenLayer as security leader
+- Reduce attack surface by 80%+
+- Provide developer-friendly security tools
+- Enable safe mainnet deployment
+- Establish GenLayer as security leader
 
 ---
 
@@ -279,22 +279,22 @@ https://github.com/lifeofagct/genlayer-security-research
 
 ---
 
-## 🎯 Success Criteria
+## Success Criteria
 
 **This research is successful if:**
 
-✅ GenLayer implements ≥5 of the 7 proposed enhancements  
-✅ Zero critical exploits occur in production  
-✅ Developers adopt secure coding practices  
-✅ Platform achieves security certification  
-✅ Community contributes additional research  
+GenLayer implements ≥5 of the 7 proposed enhancements  
+Zero critical exploits occur in production  
+Developers adopt secure coding practices  
+Platform achieves security certification  
+Community contributes additional research  
 
 **Long-term impact:**
 
-✅ GenLayer becomes the secure AI contract platform  
-✅ Other blockchains adopt similar security measures  
-✅ AI/blockchain security becomes established field  
-✅ Smart contract security evolves to cover AI risks  
+GenLayer becomes the secure AI contract platform  
+Other blockchains adopt similar security measures  
+AI/blockchain security becomes established field  
+Smart contract security evolves to cover AI risks  
 
 ---
 
